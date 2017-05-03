@@ -42,7 +42,7 @@ Some Consumer-driven contracts solutions may let you wiring stub servers by SDK 
 
 Instead, we think that contract should be defined in a less coupling way that can be separated from your business logic codes.
 
-The contract in rest-in-contract is described in a json like style. However, to make it more human-readable, we supporting some middleware function call in the contract. Hence, it is actually a limited javascript file.
+The contract in rest-in-contract is described in JS script format which exporting an Contract object. We supporting some middleware function call in the contract. It also support regular expression, jsonpath etc.
 
 An example of contract file would be like this:
 ```javascript
@@ -79,7 +79,7 @@ module.exports =
 ```
 
 Although the contract file is written in javascript in syntax, but you can just treat them as general files and stored in your projects.
-It is because your code/application would never necessary to directly interact with the contracts. You can always pass them to the Contract Server to let it do its job.
+It is because that your code/application would never necessary to directly interact with the contracts. You can always pass them to the Contract Server to let it do its job.
 
 ## What are the possible architecture configurations of rest-in-contract?
 
@@ -308,8 +308,6 @@ Content-Type: application/json; charset=utf-8
         "status": 200,
         "headers": {
           "x-powered-by": "Express",
-          "test-header": "dummy",
-          "test-regex-header": "\"/hello/pkly\"",
           "content-type": "application/json; charset=utf-8",
           "content-length": "13",
           "etag": "W/\"d-X7zzcBORmHVzBfO4n/4UzEkpfkY\"",
