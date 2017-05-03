@@ -2,15 +2,15 @@
 
 ## Project Page
 
-- [Project rest-in-contract's Homepage](http://blog.airic-yu.com/2062/project-rest-in-contract)
-- [Github](https://github.com/airicyu/rest-in-contract-project)
+- Project rest-in-contract's Homepage: [http://blog.airic-yu.com/2062/project-rest-in-contract](http://blog.airic-yu.com/2062/project-rest-in-contract)
+- Github: [https://github.com/airicyu/rest-in-contract-project](https://github.com/airicyu/rest-in-contract-project)
 
 ### Related Projects
 
 - rest-in-contract (Contract Server nodejs module)
-  - [Module Homepage](http://blog.airic-yu.com/2064/rest-in-contract-nodejs-module-for-rest-api-contract-server)
-  - [Github](https://github.com/airicyu/rest-in-contract)
-  - [NPM](https://www.npmjs.com/package/rest-in-contract)
+  - Module Homepage: [http://blog.airic-yu.com/2064/rest-in-contract-nodejs-module-for-rest-api-contract-server](http://blog.airic-yu.com/2064/rest-in-contract-nodejs-module-for-rest-api-contract-server)
+  - Github: [https://github.com/airicyu/rest-in-contract](https://github.com/airicyu/rest-in-contract)
+  - NPM: [https://www.npmjs.com/package/rest-in-contract](https://www.npmjs.com/package/rest-in-contract)
 
 # What is rest-in-contract
 
