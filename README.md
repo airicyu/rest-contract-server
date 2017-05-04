@@ -26,6 +26,9 @@ REST API providers can write API contracts to describe their REST API request/re
 #### For REST API consumers:
 REST API consumers can use the API contracts to setup stubs for local testing or drafting of API contracts.
 
+## Slideshare: Basic Concepts & Flows
+[Rest in-contract basic concepts & flows](https://www.slideshare.net/EricYu28/rest-incontract-basic-concepts-flows-75659518)
+
 ## How does rest-in-contract different from other Consumer-driven contracts solution?
 
 ### REST in nature, cross language, easy integration
