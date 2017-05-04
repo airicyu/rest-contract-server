@@ -2,7 +2,7 @@
 
 ## Project Page
 
-- Project rest-in-contract's Homepage: [http://blog.airic-yu.com/2062/project-rest-in-contract](http://blog.airic-yu.com/2062/project-rest-in-contract)
+- rest-in-contract-project's Homepage: [http://blog.airic-yu.com/2062/project-rest-in-contract](http://blog.airic-yu.com/2062/project-rest-in-contract)
 - Github: [https://github.com/airicyu/rest-in-contract-project](https://github.com/airicyu/rest-in-contract-project)
 
 ### Related Projects
@@ -16,7 +16,7 @@
 
 ## Consumer-driven contracts
 
-`rest-in-contract` is a product to let you embrace **[Consumer-driven contracts](https://martinfowler.com/articles/consumerDrivenContracts.html)**. It is REST in nature so that it fits for integrating with all kind of programming languages.
+Rest-in-contract Project is a product to let you embrace **[Consumer-driven contracts](https://martinfowler.com/articles/consumerDrivenContracts.html)**. It is REST in nature so that it fits for integrating with all kind of programming languages.
 
 ### General Story for REST API providers/consumers in Consumer-driven contracts
 
